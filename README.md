@@ -1,24 +1,13 @@
-# README
+## Exercice de Mardi 30 Octobre :sunny: 
+### Greetings
+<p>Dear moussaillon,</p>
+<p><strong>Attaché à ce repo se trouve les Form</strong></p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Noms | Pseudo Slack
+------------ | -------------
+Raphael Caillaux| @Raphael
 
-Things you may want to cover:
+<p><em>J'ai mis le lien prod sur Heroku seulement pour le premier form</em></p>
 
-* Ruby version
+### Bonne correction ! :poop:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
